@@ -83,3 +83,4 @@
 - ★★☆ Java、GOlang、 VUE
 - ★★★ MySQL、 Redis、Kafka、ES
 - ★★☆ Spring、Flask、 Django
+- ★☆☆ 使用pytorch训练resetnet分类模型
